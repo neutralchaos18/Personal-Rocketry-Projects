@@ -1,5 +1,7 @@
 # Introduction
-xxx
+Hobby rocketry is great way to perform practical engineering projects.
+I am using this report to document the designs for all the personal rockets I make.
+This hopefully will serve as a portfolio for my engineering experience, and keep me accountable for doing personal projects I am interested in.
 
 ## Rocket Motor Classification
 'Hobby' or 'amateur' rocketry typically use solid rocket motors (APCP) for propulsion. Rocket motors are supplied by approved manufacturers, and are classified by their impulse class.
@@ -74,6 +76,8 @@ It transfers the thrust force into the body tube and constrains the motor from e
 ### Recovery System
 
 ### Launch Guides
+
+## Technical Plan
 
 ## System Performance Metrics
 
