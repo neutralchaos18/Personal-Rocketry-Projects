@@ -1,6 +1,6 @@
 # Relationships to other requirements
 ## Higher-level requirements
-[[_dart-top]]
+[_dart-top](_dart-top.md)
 ## Lower-level requirements
 xxx
 
