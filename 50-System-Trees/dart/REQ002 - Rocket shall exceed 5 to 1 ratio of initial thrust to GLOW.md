@@ -1,6 +1,6 @@
 # Relationships to other requirements
 ## Higher-level requirements
-[0-dart-top](50-System-Trees/dart/0-dart-top.md)
+[[50-System-Trees/dart/_dart-top|_dart-top]]
 ## Lower-level requirements
 xxx
 # Requirement extended description
@@ -10,7 +10,7 @@ Derived from Tripoli Safety Code, 7-1.4 (https://www.tripoli.org/content.aspx?pa
 GLOW - Gross Lift-Off Weight, i.e. weight including the initial mass of the rocket motor.
 RSO - Range Safety Officer
 # Verification details
-Review thrust curve and compare to estimated GLOW of rocket. GLOW estimation may be done through OpenRocket simulation ([TEST001 - Trajectory simulation via OpenRocket](50-System-Trees/dart/TEST001%20-%20Trajectory%20simulation%20via%20OpenRocket.md)).
+Review thrust curve and compare to estimated GLOW of rocket. GLOW estimation may be done through OpenRocket trajectory simulation; [[50-System-Trees/dart/TEST001 - Trajectory simulation via OpenRocket|TEST001 - Trajectory simulation via OpenRocket]]
 # Verification outcome
 xxxx
 
