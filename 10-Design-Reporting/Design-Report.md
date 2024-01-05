@@ -53,12 +53,12 @@ The rocket system must satisfy the following requirements:
 ## Conceptual Design
 ### System Architecture
 Below is a breakdown of the sounding rocket system elements:
-- **Nose cone** Ogive nose cone, manufactured in PLA using FDM. The cone surfaces were sanded to a smooth finish. There is an attachment point for a shock cord.
-- **Body tube** ID60x660 mm cardboard body tube. Wall thickness of 2 mm.
-- **Thrust structure** Consists of a thrust ring at the base of the motor, centring ring at the top of the motor, and the tabs of the fins. Motor tube is a ID38x220 mm cardboard tube, with wall thickness of 1 mm. 
-- **Fins** Trapezoidal fins, specified to be no greater than 3 mm thickness. Fin tabs are XXX
-- **Recovery system** Parachute and Nomex package that is ejected through the top of the body tube.
-- **Launch guides** 1010-rail lugs.
+- Nose cone - Ogive nose cone, manufactured in PLA using FDM. The cone surfaces were sanded to a smooth finish. There is an attachment point for a shock cord.
+- Body tube - ID60x660 mm cardboard body tube. Wall thickness of 2 mm.
+- Thrust structure - Consists of a thrust ring at the base of the motor, centring ring at the top of the motor, and the tabs of the fins. Motor tube is a ID38x220 mm cardboard tube, with wall thickness of 1 mm. 
+- Fins - Trapezoidal fins, specified to be no greater than 3 mm thickness. Fin tabs are to be 100 mm long.
+- Recovery system - Parachute and Nomex package that is ejected through the top of the body tube.
+- Launch guides - 1010-rail lugs.
 
 ### Nose Cone
 The nose cone is selected to be 'ogive' as it is the most efficient shape for subsonic rockets.
@@ -70,7 +70,7 @@ These tubes are designed to be physically robust against loading from all direct
 ### Thrust Structure
 The thrust structure is responible for securing the rocket airframe to the motor.
 It transfers the thrust force into the body tube and constrains the motor from exiting the tube.
-
+![[dart thrust structure closeup openrocket.png]]
 ### Fins
 
 ### Recovery System

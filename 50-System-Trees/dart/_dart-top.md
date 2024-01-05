@@ -1,0 +1,1 @@
+System components are stored through backlinks.
