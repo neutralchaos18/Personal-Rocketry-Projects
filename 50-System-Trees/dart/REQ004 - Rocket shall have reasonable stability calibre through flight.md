@@ -1,6 +1,6 @@
 # Relationships to other requirements
 ## Higher-level requirements
-[_dart-top](_dart-top.md)
+[0-dart-top](50-System-Trees/dart/0-dart-top.md)
 ## Lower-level requirements
 xxx
 
@@ -12,7 +12,7 @@ Derived as technical constraint.
 - A maximum stability calibre is defined so the rocket isn't *too* likely to fly into the wind and travel a significant distance away from the launch site. If that occurs, the rocket will be fine but it will be more likely that the rocket is lost.
 
 # Verification details
-Determined through analysis in a trajectory simulation software; [[TEST001 - Trajectory simulation via OpenRocket]]
+Determined through analysis in a trajectory simulation software; [TEST001 - Trajectory simulation via OpenRocket](50-System-Trees/dart/TEST001%20-%20Trajectory%20simulation%20via%20OpenRocket.md)
 
 # Verification outcome
 xxxx
