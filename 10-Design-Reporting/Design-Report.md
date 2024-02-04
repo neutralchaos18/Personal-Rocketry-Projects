@@ -70,7 +70,7 @@ These tubes are designed to be physically robust against loading from all direct
 ### Thrust Structure
 The thrust structure is responible for securing the rocket airframe to the motor.
 It transfers the thrust force into the body tube and constrains the motor from exiting the tube.
-![[dart thrust structure closeup openrocket.png]]
+![[50-System-Trees/dart/9-Images/dart thrust structure closeup openrocket.png]]
 ### Fins
 
 ### Recovery System
